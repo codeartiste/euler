@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "permuteArr(int*, int, int):Permutations.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "set[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "P69MakeDivisorSeive:Problem69.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Divisors[3]">
+            </PersistentString>
+            <PersistentString
+               value = "euler[i]">
+            </PersistentString>
+            <PersistentString
+               value = "isPrime[6]">
+            </PersistentString>
+            <PersistentString
+               value = "isPrime[i]">
+            </PersistentString>
+            <PersistentString
+               value = "euler[j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GetCard(char*):Problem54.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "t[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SolveProblem69():Problem69.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "euler[i]">
+            </PersistentString>
+            <PersistentString
+               value = "isPrime[i]">
+            </PersistentString>
+            <PersistentString
+               value = "euler[510510]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "checkPrime(long long):Problem58.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sqrt(num)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "P50MakeSeive:Problem50.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "PSums[5]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr4">
+            </PersistentString>
+            <PersistentString
+               value = "arr6">
+            </PersistentString>
+            <PersistentString
+               value = "SqrArray[25]">
+            </PersistentString>
+            <PersistentString
+               value = "sum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SolveProblem54():Problem54.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "SolveProblem187():Problem187.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nums[i]">
+            </PersistentString>
+            <PersistentString
+               value = "nums[j]">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SolveProblem58():Problem58.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(prims*100)/(2*i+1)">
+            </PersistentString>
+            <PersistentString
+               value = "PrimeSeive[29]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SolveProblem44():Problem44.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "PentaSeive[22]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
